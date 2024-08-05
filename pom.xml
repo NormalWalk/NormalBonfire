@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Main</name>
+  <name>NormalBonfire</name>
 
     <description>Плагин на уникальный костер.</description>
     <properties>
@@ -58,6 +58,10 @@
       <repository>
           <id>sonatype</id>
           <url>https://oss.sonatype.org/content/groups/public/</url>
+      </repository>
+      <repository>
+          <id>sk89q-repo</id>
+          <url>https://maven.enginehub.org/repo/</url>
       </repository>
   </repositories>
 
