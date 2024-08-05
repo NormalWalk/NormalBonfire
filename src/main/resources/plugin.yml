@@ -1,6 +1,8 @@
-name: Main
+name: NormalBonfire
 version: '${project.version}'
 main: ru.normalwalk.normalbonfire.Main
 api-version: '1.16'
 authors: [NormalWalk_ | vk.com/normalwalk]
 description: Плагин на уникальный костер.
+commands:
+  normalbonfire: {}
